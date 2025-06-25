@@ -1,4 +1,7 @@
-# Numerical Interpolation Method
+# Exercice course Numerical Modeling
+# teacher: Dr. Paulo Kubota
+# student: Arthur Duarte
+# Date: 2025-06-25
 
 import numpy as np
 
